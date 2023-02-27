@@ -1,2 +1,2 @@
 This is a training project. 
-I’m trying to write a simple calculator on JavaScript.
+Making a simple calculator on JavaScript after the JavaScript course completion.
