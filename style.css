@@ -15,7 +15,7 @@
 .calculator {
   background-color: #22252d;
   width: 100%;
-  max-width: 300px;
+  max-width: 350px;
   min-height: 640px;
   display: flex;
   flex-direction: column;
